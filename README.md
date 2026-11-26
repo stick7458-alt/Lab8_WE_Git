@@ -1,4 +1,4 @@
-# Lab8_WE_Git1
+# Lab8_WE_Git
 
 **Course:** Web Engineering - Laboratory 8
 **Topic:** CSS Grid Layouts & Git/GitHub Version Control
